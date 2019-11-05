@@ -1,4 +1,4 @@
-#Queremos hacer un programa que calcule el factorial de un número entero positivo.
+#Queremos hacer un programa que calcule el factorial de un nï¿½mero entero positivo.
 
 n = int(input("Escribe un entero:"))
 factorial = 1
